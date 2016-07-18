@@ -1,0 +1,71 @@
+body {
+	margin:20px;
+	font-family: 'Questrial', sans-serif;
+	color:#333;
+	line-height:1.5;
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+	font-size:2em;
+}
+
+input[type=text] {
+	background-color:#eee;
+	border:0;
+    width: 50%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    box-sizing: border-box;
+	font-size:1em;
+}
+
+input[type=email] {
+	background-color:#eee;
+	border:0;
+    width: 50%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    box-sizing: border-box;
+	font-size:1em;
+}
+
+input[type=url] {
+	background-color:#eee;
+	border:0;
+    width: 50%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    box-sizing: border-box;
+	font-size:1em;
+}
+
+input[type=textarea] {
+	background-color:#eee;
+	border:0;
+    width: 50%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    box-sizing: border-box;
+	font-size:1em;
+}
+
+input[type=tel] {
+    width: 50%;
+	background-color:#eee;
+	border:0;
+    padding: 12px 20px;
+    margin: 5px 0;
+    box-sizing: border-box;
+	font-size:1em;
+}
+
+.textArea {
+	background-color:#eee;
+	border:0;
+    width: 50%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    box-sizing: border-box;
+	font-size:1em;
+}
